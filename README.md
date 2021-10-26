@@ -1,0 +1,2 @@
+# MATLAB-code-for-Digital-Communication-DC-
+Matlab code for Digital Communication Experiments/Lab. VRC code generation and error detection, CRC code generation and error detection, Linear block code generation and error detection, Error detection and correction using hamming coding, Line code generation Unipolar NRZ, polar NRZ, bipolar NRZ, Manchester coding, Generation and detection of ASK, Generation and detection of PSK, Generation and detection of FSK, Generation and detection of QPSK.
